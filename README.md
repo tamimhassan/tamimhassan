@@ -68,7 +68,7 @@ I handle everything: design → development → testing → deployment → maint
 
 ### Quick Start
 1. **Visit:** https://tamimhassan.vercel.app (view work + message)
-2. **Or:** https://www.linkedin.com/in/mdtamimkhan (connect)
+2. **Or:** https://www.linkedin.com/in/tamim- (connect)
 3. **Say:** "Hi Tamim, I need [project]. Budget: [X]. Timeline: [Y weeks]."
 
 
@@ -86,4 +86,4 @@ I reply within 6-12 hours with:
 **Remote:** US/EU timezone ready  
 **Available:** Freelance + contract now
 
-[🌐 Portfolio](https://tamimhassan.vercel.app) | [💼 LinkedIn](https://www.linkedin.com/in/mdtamimkhan) | [🐙 GitHub](https://github.com/tamimhassan)
+[🌐 Portfolio](https://tamimhassan.vercel.app) | [💼 LinkedIn](https://www.linkedin.com/in/tamim-) | [🐙 GitHub](https://github.com/tamimhassan)
