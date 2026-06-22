@@ -1,17 +1,28 @@
-# Md. Tamim Hassan 👋
+# Tamim Hassan 👋
 
-**Full-Stack Engineer** | React • Next.js • TypeScript • NestJS  
-📍 Dhaka, Bangladesh | 🚀 Almost 5 years building web/mobile apps
+**Full-Stack App Developer** | React • Next.js • React Native • TypeScript • NestJS  
+📍 Dhaka, Bangladesh | 🚀 Almost 5 years building web + mobile apps
 
 ---
 
 ## What I Build For You
 
-Complete applications from idea to launch:
-- **Web apps**: React + Next.js frontend, NestJS backend, PostgreSQL/MongoDB database
-- **Mobile apps**: React Native for iOS + Android (same team, same codebase)
-- **APIs**: REST or GraphQL with NestJS, authentication, and scaling built-in
-- **SaaS products**: Stripe payments, user auth, dashboards, deployment ready
+Complete apps from idea to launch:
+
+**Web Apps**
+- React + Next.js frontend
+- NestJS backend
+- PostgreSQL/MongoDB database
+- Stripe payments, user auth, dashboards
+
+**Mobile Apps**
+- React Native for iOS + Android
+- Same backend as web (one team, full coverage)
+- Native performance with TypeScript
+
+**APIs & Backend**
+- REST or GraphQL with NestJS
+- Authentication, scaling, caching built-in
 
 I handle everything: design → development → testing → deployment → maintenance
 
@@ -21,11 +32,11 @@ I handle everything: design → development → testing → deployment → maint
 
 | Achievement | Your Benefit |
 |-------------|--------------|
-| 30% faster delivery speed | Your project finishes sooner |
+| 30% faster delivery | Your project finishes sooner |
 | 20,000+ users scaled | Your app handles growth without crashes |
-| 45% fewer API calls | Lower infrastructure costs for you |
-| +30% page-load speed | Better user experience, higher retention |
-| Led 3 junior developers | I manage teams, not just write code |
+| 45% fewer API calls | Lower infrastructure costs |
+| +30% page-load speed | Better UX, higher retention |
+| Led 3 junior developers | I manage teams, not just code |
 | Remote US client work | Smooth communication, no timezone issues |
 
 ---
@@ -34,20 +45,20 @@ I handle everything: design → development → testing → deployment → maint
 
 | Your Problem | My Solution |
 |--------------|-------------|
-| "No developer for my SaaS idea" | Build it end-to-end: frontend, backend, database, deploy |
-| "App is too slow" | Optimize performance: 30–50% faster, 45% less API usage |
-| "Need mobile version" | React Native app (iOS + Android) with same backend |
-| "API taking too long" | Build fast REST/GraphQL API with NestJS + caching |
+| "No developer for my SaaS idea" | Build web + mobile end-to-end: frontend, backend, database, deploy |
+| "App is too slow" | Optimize: 30–50% faster page loads, 45% less API usage |
+| "Need mobile version of my web app" | React Native iOS + Android with same backend |
+| "API taking too long" | Fast REST/GraphQL API with NestJS + caching |
 | "Team needs leader" | Manage juniors, code reviews, sprint planning |
-| "Remote async work" | US/EU timezone available, weekly demos, clear updates |
+| "Need remote async developer" | US/EU timezone available, weekly demos, clear updates |
 
 ---
 
 ## Tech Stack
 
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Mobile:** React Native (iOS + Android)  
 **Backend:** NestJS, Node.js, GraphQL, REST  
-**Mobile:** React Native  
 **Database:** PostgreSQL, MongoDB, Supabase  
 **Cloud:** AWS, Docker, Lambda, S3, Vercel
 
@@ -57,14 +68,11 @@ I handle everything: design → development → testing → deployment → maint
 
 ### Quick Start
 1. **Visit:** https://tamimhassan.vercel.app (view work + message)
-2. **Or:** https://www.linkedin.com/in/tamim- (connect)
+2. **Or:** https://www.linkedin.com/in/mdtamimkhan (connect)
 3. **Say:** "Hi Tamim, I need [project]. Budget: [X]. Timeline: [Y weeks]."
 
-### Platforms
-- **Upwork:** [Tamim Upwork](https://www.upwork.com/freelancers/tamimhassan)
-- **Fiverr:** [Tamim Fiverr](https://www.fiverr.com/th_taim?public_mode=true)
 
-I reply within 12 hours with:
+I reply within 6-12 hours with:
 - Timeline estimate
 - Fixed price or monthly rate
 - Weekly progress plan
@@ -72,6 +80,8 @@ I reply within 12 hours with:
 ---
 
 **Experience:** Almost 5 years  
+**Role:** Full-stack app developer (web + mobile)  
+**Mobile:** React Native (iOS + Android)  
 **Team:** Led 3 junior developers  
 **Remote:** US/EU timezone ready  
 **Available:** Freelance + contract now
