@@ -1,7 +1,7 @@
 # Tamim Hassan 👋
 
 **Full-Stack App Developer** | React • Next.js • React Native • TypeScript • NestJS  
-📍 Dhaka, Bangladesh | 🚀 5 years building web + mobile apps
+📍 Dhaka, Bangladesh | 🚀 4.5 years building web + mobile apps
 
 ---
 
@@ -79,7 +79,7 @@ I reply within 6-12 hours with:
 
 ---
 
-**Experience:** 5 years  
+**Experience:** 4.5 years  
 **Role:** Full-stack app developer (web + mobile)  
 **Mobile:** React Native (iOS + Android)  
 **Team:** Led 3 junior developers  
